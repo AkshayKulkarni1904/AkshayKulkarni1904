@@ -57,6 +57,6 @@ Here are some of the key projects I've built and work on:
 ---
 
 ### 🤝 Connect with Me
-- 📧 Email: [your.email@example.com](mailto:aakulkarni19@gmail.com) *(Update with your active email!)*
+- 📧 Email: [aakulkarni19@gmail.com](mailto:your.email@example.com) *(Update with your active email!)*
 - 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourusername) *(Update with your LinkedIn link!)*
 - 🔗 GitHub Profile: [@AkshayKulkarni1904](https://github.com/AkshayKulkarni1904)
