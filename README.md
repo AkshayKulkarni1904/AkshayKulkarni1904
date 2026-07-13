@@ -29,7 +29,7 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AkshayKulkarni1904&theme=onedark&no-bg=true&margin-w=12&column=7" alt="Akshay's GitHub Trophies" />
+   [![trophy](https://github-profile-trophy.vercel.app/AkshayKulkarni1904)](https://github.com/ryo-ma/github-profile-trophy)
   </a>
 </p>
 
