@@ -5,7 +5,7 @@
 
 <!-- ═══════════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&pause=1000&color=7B2FF7&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+AI+Engineer;Python+%7C+Data+Analysis+%7C+Jupyter;Cybersecurity+%7C+Cloud+%7C+AWS;Fresher+%7C+Ready+to+Build+%26+Grow+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&pause=1000&color=7B2FF7&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+AI+Engineer;Python+%7C+Data+Science+%7C+NumPy+%7C+Pandas;Cybersecurity+%7C+Cloud+%7C+AWS;MCA+Student+%40+MIT-WPU+%F0%9F%8E%93;Fresher+%7C+Ready+to+Build+%26+Grow+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- ═══════════════════════════ BADGES ROW ════════════════════════════ -->
@@ -19,6 +19,8 @@
   <a href="https://www.linkedin.com/in/akshay-kulkarni-897b15256/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square" alt="Status" />
 </p>
 
 ---
@@ -42,10 +44,24 @@
 - 🤖 Deeply interested in **Machine Learning, AI, and Data Analytics**
 - 🔐 Exploring **Cybersecurity** — threat detection, network security & information privacy
 - ☁️ Learning **Amazon Web Services (AWS)** for scalable cloud deployments
-- 🐍 Daily Python practice & algorithmic problem-solving
+- 🐍 Daily Python practice — currently on **Day 22+** of my Python learning journey
 - 🎮 Building interactive experiences with game development (C#, Python)
 - 🌱 Currently looking for **internships and entry-level opportunities** to apply and grow my skills
 - ⚡ Fun fact: I enjoy studying OS internals and how low-level software works
+
+---
+
+<!-- ═══════════════════════════ CURRENT FOCUS ═════════════════════════ -->
+### 🎯 Current Focus
+
+```text
+Python Learning Journey    ████████████████████░░░   Day 22 / ~30  🟢 Active
+Data Science (NumPy)       ████████████████░░░░░░░   Intermediate   🟢 Active
+Pandas & DataFrames        ████████████░░░░░░░░░░░   Learning       🟡 In Progress
+ML / AI (Coursera)         ████████████████░░░░░░░   Intermediate   🟢 Active
+Cybersecurity (Cisco)      ██████████████████████░   Advanced       ✅ Certified
+AWS Cloud                  ████████░░░░░░░░░░░░░░░   Beginner       🟡 In Progress
+```
 
 ---
 
@@ -61,7 +77,7 @@
 | **Data & Notebooks** | ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
 | **Cloud & Security** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
-| **IDE / Tools** | ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **IDE / Tools** | ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) |
 
 </div>
 
@@ -123,13 +139,15 @@
 ### 🧠 Core Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Python-Advanced-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/NumPy-Intermediate-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Learning-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Model%20Training-Active-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Feature%20Engineering-Intermediate-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Model%20Evaluation-Intermediate-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Model%20Optimization-Learning-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Network%20Security-Learning-orange?style=flat-square&logo=cisco" />
+  <img src="https://img.shields.io/badge/Network%20Security-Certified-success?style=flat-square&logo=cisco" />
   <img src="https://img.shields.io/badge/Threat%20Detection-Learning-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-Programming-ED8B00?style=flat-square&logo=openjdk" />
@@ -146,13 +164,13 @@
 <summary><b>🤖 Data Science & AI</b></summary>
 <br/>
 
+* 🐍 **[Python Learning Journey](https://github.com/AkshayKulkarni1904/Python)**
+  * *Daily Python practice from fundamentals to Data Science — 22+ days of notebooks covering data types, functions, OOP, NumPy, and Pandas.*
+  * `Python` `NumPy` `Pandas` `Jupyter Notebook` `Data Science`
+
 * 📈 **[App_TrendPulse](https://github.com/AkshayKulkarni1904/App_TrendPulse)**
   * *Jupyter Notebook project for processing trends, compiling metrics, and performing data-driven explorations.*
   * `Jupyter Notebook` `Python` `Data Analytics`
-
-* 🐍 **[Python Practice Tracker](https://github.com/AkshayKulkarni1904/Python)**
-  * *Tracking daily coding progress, algorithmic problem-solving, and data structures practice.*
-  * `Python` `Algorithms` `Data Structures`
 
 </details>
 
@@ -192,11 +210,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkshayKulkarni1904&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akshay's GitHub Stats" height="180px" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayKulkarni1904&theme=tokyonight&hide_border=true" alt="Akshay's Streak" height="180px" />
+  <img src="https://streak-stats.demolab.com/?user=AkshayKulkarni1904&theme=tokyonight&hide_border=true" alt="Akshay's Streak" height="180px" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayKulkarni1904&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="400px" />
+</p>
+
+<!-- Activity Graph -->
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshayKulkarni1904&theme=tokyo-night&hide_border=true&area=true" alt="Akshay's Activity Graph" width="100%" />
 </p>
 
 <!-- Snake Contribution Graph -->
@@ -205,8 +230,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AkshayKulkarni1904/AkshayKulkarni1904/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
-> ⚠️ *The snake animation requires a one-time setup — see the [Snake Setup Guide](#-setup-snake-animation) below.*
 
 ---
 
@@ -222,55 +245,10 @@
     <img src="https://img.shields.io/badge/GitHub-AkshayKulkarni1904-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:akshay_kulkarni.19@rediffmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-> 📌 *Update the Email button above with your actual email address.*
-
----
-
-<!-- ═══════════════════════════ SNAKE SETUP ═══════════════════════════ -->
-<details>
-<summary><b>🔧 Setup Snake Animation (One-Time)</b></summary>
-<br/>
-
-To enable the animated contribution snake on your profile, follow these steps:
-
-1. Create a new repository named exactly **`AkshayKulkarni1904`** (matching your username).
-2. Inside that repo, create the file `.github/workflows/snake.yml` with:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: AkshayKulkarni1904
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Go to **Actions** tab → run the workflow manually once.
-4. The snake SVG will be auto-generated and updated nightly!
-
-</details>
 
 ---
 
